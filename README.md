@@ -1,6 +1,6 @@
 # Minimal Portfolio
 
-This is my personal portfolio website. It is intended to be minimalistic and no-frills, while (hopefully) not looking too bad. It is build with [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) and [Daisy UI](https://github.com/saadeghi/daisyui). The project structure based on [HTML Tailwind Starter](https://github.com/rebelchris/HTML-Tailwind-Starter).
+This is my personal portfolio website. It is intended to be minimalistic and no-frills, while (hopefully) not looking too bad. It is build with [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) and [Daisy UI](https://github.com/saadeghi/daisyui). The project structure is based on [HTML Tailwind Starter](https://github.com/rebelchris/HTML-Tailwind-Starter).
 
 ### [Live Preview](https://maxschneider.dev)
 
