@@ -2,7 +2,7 @@
   "scripts": {
     "build": "postcss styles.css -o src/styles.css",
     "build-docker": "docker build -t minimal-portfolio .",
-    "start-docker": "docker run -p 443:443 --name minimal-portfolio minimal-portfolio"
+    "start-docker": "docker run -d -p 443:443 --name minimal-portfolio minimal-portfolio"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.15",
