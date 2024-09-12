@@ -1,2 +1,5 @@
 node_modules/
 src/styles.css
+*.conf
+*.crt
+*.key
